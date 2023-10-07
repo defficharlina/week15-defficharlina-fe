@@ -6,10 +6,6 @@ function Homepage() {
     <>
       <div className="homepage-container" id="homepage">
         <h1>Booklist App</h1>
-        <p>
-          This app is designed to test CORS, protect against Clickjacking, and
-          prevent XSS attacks.
-        </p>
         <Button variant="contained" href="/avicena" style={{ margin: "10px" }}>
           Avicena{"'s"} Book
         </Button>

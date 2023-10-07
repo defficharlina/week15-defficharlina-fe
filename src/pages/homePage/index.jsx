@@ -20,7 +20,7 @@ function Homepage() {
           Deffi{"'s"} Book
         </Button>
       </div>
-      <footer>© 2023 Muhammad Avicena. All Rights Reserved. </footer>
+      <footer></footer>
     </>
   );
 }
